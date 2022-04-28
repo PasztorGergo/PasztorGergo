@@ -1,16 +1,14 @@
-### Hi there 👋
+# Greetings! 👋
+My name is **Gergő Pásztor** and I'm a web developer.
 
-<!--
-**PasztorGergo/PasztorGergo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I can speak:
+- Javascript, React, Typescript
+- HTML
+- CSS
 
-Here are some ideas to get you started:
+## In my free time I:
+- Go to the gym 🏋️‍♂️
+- Make food 🍗
+- Read books 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐Website[https://gergopasztor.dev]
