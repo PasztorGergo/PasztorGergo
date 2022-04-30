@@ -11,4 +11,4 @@ My name is **Gergő Pásztor** and I'm a web developer.
 - Make food 🍗
 - Read books 📚
 
-🌐(Website)[https://gergopasztor.dev]
+🌐[Website](https://gergopasztor.dev)
