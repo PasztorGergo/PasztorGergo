@@ -7,7 +7,7 @@ Web Developer
 Currently, I'm a high school student, who likes to do side-projects and freelance. I've been programming for 2 years, and I gained a lot of experience.
 
 * 🌍  I'm based in Hungary
-* 🖥️  See my portfolio at [Website](https://portfolio-pasztorgergo.vercel.app)
+* 🖥️  See my portfolio at [Website](https://gergopasztor.com)
 * ✉️  You can contact me at [pasztorg05@gmail.com](mailto:pasztorg05@gmail.com)
 * 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on projects for small businesses or individuals
