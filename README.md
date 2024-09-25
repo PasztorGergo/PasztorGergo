@@ -9,7 +9,7 @@ Currently, I'm a high school student, who likes to do side projects and freelanc
 * 🌍  I'm based in Hungary
 * 🖥️  See my portfolio at [gergopasztor.com](https://gergopasztor.com)
 * ✉️  You can contact me at [pasztorg05@gmail.com](mailto:pasztorg05@gmail.com)
-* 🧠  I'm Python, and C++
+* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on projects for small businesses or individuals
 
 <a href="https://www.twitter.com/G3rgoPasztor" target="_blank" rel="noreferrer"><img
