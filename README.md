@@ -4,7 +4,7 @@ Hi 👋 My name is Gergő Pásztor
 Web Developer
 -------------
 
-Currently, I'm a high school student, who likes to do side projects and freelance. I've been programming for 2 years, and I gained a lot of experience.
+I'm a university student, who likes to do side projects. I've been programming for 4 years.
 
 * 🌍  I'm based in Hungary
 * 🖥️  See my portfolio at [gergopasztor.com](https://gergopasztor.com)
